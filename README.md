@@ -32,3 +32,6 @@ TokenVerifyX is a decentralized platform used to verify ERC-20 token ownership o
 *What We're Proud Of:*
 - Designd a user-friendly interface.
 - Learned about smart contarcts and Internet Computer.
+
+Project slides:
+https://docs.google.com/presentation/d/1G9frpVHEOH2Isi7THwC-jWUoen1YhfeiUtywIW4T9NA/edit#slide=id.g29a383088d9_0_55
