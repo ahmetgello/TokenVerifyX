@@ -1,0 +1,17 @@
+{
+    "name": "token-verifyx",
+    "version": "1.0.0",
+    "description": "Decentralized platform for ERC-20 token verification on the Internet Computer",
+    "main": "index.js",
+    "scripts": {
+      "start": "dfx start --background && npm run build",
+      "build": "dfx deploy",
+      "test": "dfx canister call ERC20Verification test"
+    },
+    "keywords": ["Internet Computer", "Decentralized", "ERC-20", "Token Verification"],
+    "author": "T4Technology",
+    "dependencies": {
+
+    }
+  }
+  

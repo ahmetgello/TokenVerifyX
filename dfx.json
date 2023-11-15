@@ -1,0 +1,15 @@
+{
+    "canisters": {
+      "ERC20Verification": {
+        "main": "src/contracts/ERC20Verification",
+        "type": "motoko"
+      }
+    },
+    "networks": {
+      "local": {
+        "bind": "127.0.0.1:8000",
+        "type": "ephemeral"
+      }
+    }
+  }
+  
