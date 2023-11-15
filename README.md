@@ -2,31 +2,33 @@
 
 ## Project Description
 
-TokenVerifyX is a decentralized platform on the Internet Computer that allows users to verify the ownership of ERC-20 tokens on Ethereum using a seamless and secure process.
+TokenVerifyX is a decentralized platform used to verify ERC-20 token ownership on the Internet Computer.
 
-## Getting Started
+## Track
 
-1. Clone/Fork the project.
-2. Install dependencies: `npm install`.
-3. Run the project: `npm start`.
+- xChain dapps - ERC-20 Token Verification Platform
 
-## Project Structure
+## Team Participants
 
-- `src/components/WalletArea.tsx`: Contains the wallet area component.
-- `src/services/HistoryService.ts`: Manages the history of token verifications.
-- `contracts/ERC20Verification.can`: Smart contract for ERC-20 token verification.
-- `tests/ERC20Verification_test.mo`: Tests for ERC-20 token verification.
-- `public/index.html`: Main HTML file.
-- `public/assets/logo.png`: Project logo.
+- Ahmet Kallo: GitHub: "AhmadKelo", Discord: "ahmetgello"
+- Abdullah Dol: GitHub: "Abdullah-dol", Discord: "abdullahdol"
+- Muhammed Barutcu: GitHub: "", Discord: "muhammed.baro"
+- Efe Can Eser: GitHub: "efecan", Discord: "nepend."
 
-## How to Contribute
+## Canister ID(s) for Mainnet Deployment
 
-1. Fork the repository.
-2. Create a new branch: `git checkout -b feature/new-feature`.
-3. Make changes and commit: `git commit -m "Add new feature"`.
-4. Push to the branch: `git push origin feature/new-feature`.
-5. Submit a pull request.
+- ERC20Verification: [canister_ID]
 
-## License
+## Feedback Section
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+*What We've Learned:*
+- Gained the ability to securely write smart contracts to facilitate interaction between Ethereum and Internet Computer.
+- Understood the deployment process on the Dfinity platform.
+
+*Challenges We Faced:*
+- Adapting to the process of developing smart contracts on the Internet Computer can be challenging.
+- Dealing with data inconsistency issues between Ethereum and the Internet Computer.
+
+*What We're Proud Of:*
+- Designd a user-friendly interface.
+- Learned about smart contarcts and Internet Computer.
